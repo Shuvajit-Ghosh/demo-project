@@ -1,3 +1,4 @@
 # demo-project
-practice for project
-author - Shuvajit Ghosh
+practice for project.
+<br>
+Author - Shuvajit Ghosh
