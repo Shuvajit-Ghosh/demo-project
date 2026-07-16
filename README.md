@@ -1,4 +1,4 @@
 # demo-project
 practice for project.
 <br>
-Author - Shuvajit Ghosh
+Author - Shuvajit Ghosh (Raja)
